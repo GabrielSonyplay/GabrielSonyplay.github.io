@@ -165,13 +165,13 @@
         }
 
         .banner img {
-            width: 1200px;
+            width: 100%;
             height: auto;
             display: block;
             position: relative; /* Posição relativa para o posicionamento do botão */;
-            height: 450px;
+            max-width: 1200px;
+            
         }
-
         .paragrafo{
             padding: 30px;
             
