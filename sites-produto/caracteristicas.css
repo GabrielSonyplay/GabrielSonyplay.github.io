@@ -657,7 +657,7 @@ footer{
             z-index: 33;
             font-family: "Josefin Sans", sans-serif;
             position: fixed;
-            width: 350px;
+            width: 100%;
             text-align: center;
             font-size: 8px;
         }
